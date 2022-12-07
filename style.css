@@ -1,0 +1,46 @@
+body{
+    margin: auto;
+}
+.ay_container{
+    flex-wrap: wrap;
+    display: flex;
+    margin: auto;
+    text-align: center;  
+    table-layout: fixed;
+}
+.ay_row{
+    width: 90%;
+    table-layout: fixed;
+    margin: auto; 
+    text-align: center;   
+}
+.ay_row33{
+    width: 33%;
+}
+.ay_col{
+    flex-wrap: wrap;
+    display:block;
+    margin: auto;
+    min-height: 80px;
+}
+img{
+    width:351; 
+    height:113;
+    text-align: center;
+}
+.ay_cont_text{
+    display: inline;
+    font-size: 15px;
+}
+.bgcl1{
+    background-color: #EEEEEE;
+}
+.bgcly2{
+    background-color: #70CCC2;
+}
+.bgcly1{
+    background-color: #7EE5DA;
+}
+.bgcly3{
+    background-color: #62B3AA;
+}
